@@ -11,3 +11,5 @@ This is a simple discord bot written in python, utilizing the reddit json api to
 # Usage
 On your discord server type `!rf {subreddit name}` and the bot will fetch a random image from the subreddit. If it can't it will tell you the error.
 Example: `!rf memes`
+
+Sources used: `https://discordpy.readthedocs.io/en/latest/`
